@@ -1,0 +1,2 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+R- Cria uam pasta oculta do git (.git). Para inicializar o projeto com onovo repositório com os commits de monitoramento
