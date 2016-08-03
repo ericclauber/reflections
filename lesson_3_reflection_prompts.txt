@@ -1,0 +1,2 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+R- Caso queira utlizalar em um outro computador, ou compartilhar com o publico ou pessoas epecificas
