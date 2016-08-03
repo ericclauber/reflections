@@ -25,3 +25,14 @@ e data do historíco. E o git diff para visualizar as alterações: linhas delet
 De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
 R- Sebendo que posso fazer um checkout a voltar ao ponto anterior. 
 E posteriromente, se preciso, voltar para versão mais a frente
+
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+R- Fazer comparação em algum código feito por mim.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+
+R- Esclarecendo o caminho de desvio de cada branch e commit
+
+TESTE DE ADIÇÃO DE LINHA
